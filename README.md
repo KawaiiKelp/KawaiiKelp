@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/45de5cf3-7c9f-4873-8e1f-1147a862b9a7" width=400>
-
- # ユ！
+ # Introductions
 
 > 카사네 테토를 사랑합니다
 >
